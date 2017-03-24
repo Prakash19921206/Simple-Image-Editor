@@ -8,3 +8,9 @@ int main()
 	cout << "Hello World at GitHub" << endl;
 	_getch();
 }
+
+void ntn()
+{
+
+	//ntn happens here
+}
