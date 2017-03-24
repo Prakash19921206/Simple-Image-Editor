@@ -14,8 +14,6 @@ void newone()
 }
 void ntn()
 {
-
-	//ntn happens here
-	//brought back this comment
+	//ntn happens here	
 
 }
