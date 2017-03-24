@@ -1,10 +1,10 @@
 #include<iostream>
+#include<conio.h>
 
 using namespace std;
 
 int main()
 {
 	cout << "Hello World at GitHub" << endl;
-	int x;
-	cin >> x;
+	_getch();
 }
