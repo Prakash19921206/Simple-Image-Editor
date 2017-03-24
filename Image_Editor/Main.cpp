@@ -8,7 +8,10 @@ int main()
 	cout << "Hello World at GitHub" << endl;
 	_getch();
 }
-
+void newone()
+{
+	//new 
+}
 void ntn()
 {
 
