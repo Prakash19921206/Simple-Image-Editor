@@ -1,5 +1,4 @@
 # Simple-Image-Editor
-Using Opencv for basic image manipulation 
 
 
 
