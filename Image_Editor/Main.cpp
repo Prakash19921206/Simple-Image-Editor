@@ -17,5 +17,5 @@ int main()
 
 void process_pic(Mat &img)
 {
-
+	img = cvtColor(img,img,CV_BGR2GRAY);
 }
